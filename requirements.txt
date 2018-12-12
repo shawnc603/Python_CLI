@@ -1,0 +1,14 @@
+certifi==2018.11.29
+chardet==3.0.4
+Click==7.0
+future==0.17.1
+get==2018.11.19
+idna==2.7
+post==2018.11.20
+public==2018.11.20
+python-whois==0.7.0
+query-string==2018.11.20
+request==2018.11.20
+requests==2.20.1
+urllib3==1.24.1
+whois==0.7
